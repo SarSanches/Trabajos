@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871676125210",
+    "project_id": "descubreags-3f5d4",
+    "storage_bucket": "descubreags-3f5d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871676125210:android:24f532d63db88caaf5b1a3",
+        "android_client_info": {
+          "package_name": "com.example.taran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYov9EYlNuUJGPII3N00JhbvEyVqABdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
